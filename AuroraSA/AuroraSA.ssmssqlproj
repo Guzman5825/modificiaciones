@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="AuroraSA">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DESKTOP-745ELB5:DESKTOP-745ELB5\Usuario">
+          <Created>2024-11-15T09:30:17.5377492-03:00</Created>
+          <Type>SQL</Type>
+          <Server>DESKTOP-745ELB5</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <TrustServerCertificate>True</TrustServerCertificate>
+          <HostNameInServerCertificate />
+          <EncryptionOption>True</EncryptionOption>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="00- creacion de base - esquemas - tablas - indices.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-745ELB5:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-745ELB5</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>00- creacion de base - esquemas - tablas - indices.sql</FullPath>
+        </FileNode>
+        <FileNode Name="01- creacionSP_ABM.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-745ELB5:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-745ELB5</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>01- creacionSP_ABM.sql</FullPath>
+        </FileNode>
+        <FileNode Name="02- creacionSPdeImportacionDeMaestros.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-745ELB5:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-745ELB5</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>02- creacionSPdeImportacionDeMaestros.sql</FullPath>
+        </FileNode>
+        <FileNode Name="03- ejecucionSPYDirrecionArchivos.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-745ELB5:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-745ELB5</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>03- ejecucionSPYDirrecionArchivos.sql</FullPath>
+        </FileNode>
+        <FileNode Name="04- creacionSPyViewsParaSupervisoresYGerentes.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-745ELB5:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-745ELB5</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>04- creacionSPyViewsParaSupervisoresYGerentes.sql</FullPath>
+        </FileNode>
+        <FileNode Name="05- creacionDeLOGINsUSERsYRoles.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-745ELB5:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-745ELB5</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>05- creacionDeLOGINsUSERsYRoles.sql</FullPath>
+        </FileNode>
+        <FileNode Name="06-backups.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-745ELB5:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-745ELB5</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>06-backups.sql</FullPath>
+        </FileNode>
+        <FileNode Name="07-Testing - entrega 3 - ABM.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-745ELB5:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-745ELB5</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>07-Testing - entrega 3 - ABM.sql</FullPath>
+        </FileNode>
+        <FileNode Name="08-Testing - entrega 4 - importacion.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-745ELB5:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-745ELB5</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>08-Testing - entrega 4 - importacion.sql</FullPath>
+        </FileNode>
+        <FileNode Name="09-Testing - entrega 5 - reportes y seguridad.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-745ELB5:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-745ELB5</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>09-Testing - entrega 5 - reportes y seguridad.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
